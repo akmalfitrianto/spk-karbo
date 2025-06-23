@@ -1,8 +1,8 @@
 # Laptopify
 
-## What is Laptopify?
+## What is SPK-Karbo?
 
-Laptopify is an application for Decision Support System that can be use for recommendation when selecting laptop in e-commerce. This app is built as final project for my thesis, so it's required more improvement. Feel free to check it out.
+SPK-Karbo is an application for Decision Support System that can be use for recommendation when selecting carbohydrate for diabetics. This app is built as final project for my task, so it's required more improvement. Feel free to check it out.
 
 ## Updates
 
@@ -13,7 +13,7 @@ there are 2 branches in the repository which is for `basic-no-auth` is really me
 - clone or download app
 
 ```
-git clone https://github.com/hafizulf/laptopify.git
+git clone https://github.com/akmalfitrianto/spk-karbo.git
 ```
 
 - copy `env` & rename to `.env` to setup your local environment
