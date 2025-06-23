@@ -1,0 +1,63 @@
+label,
+li {
+  color: black;
+}
+
+.table>tbody>tr>* {
+  vertical-align: middle;
+  text-align: center;
+}
+
+.table-kriteria>thead>tr>th,
+.table-subkriteria>thead>tr>th,
+.table-subkriteria>tbody>tr>td:nth-child(1),
+.table-subkriteria>tbody>tr>td:nth-child(2),
+.table-alternatif>thead>tr>th {
+  text-align: center;
+}
+
+.table-kriteria>tbody>tr>td:nth-child(3) {
+  text-align: left;
+}
+
+.bg-gradient-primary {
+  background-color: #095779;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(10%, #095779), to(#161e74));
+  background-image: linear-gradient(180deg, #095779 10%, #161e74 100%);
+  background-size: cover;
+}
+
+.badge-primary {
+  background-color: #075070;
+}
+
+.btn-user {
+  color: #fff;
+  background-color: #095779;
+  border-color: #095779;
+}
+
+.btn-user:hover {
+  color: #fff;
+  background-color: #0b3446;
+  border-color: #095779;
+}
+
+ol.text-putih li {
+  color: white;
+}
+
+ol.text-putih li a {
+  color: black;
+}
+
+ol.text-putih li p {
+  text-align: justify;
+}
+
+.bg-login-image {
+  background: url('https://plus.unsplash.com/premium_photo-1673108852141-e8c3c22a4a22?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Zm9vZCUyMG9uJTIwdGFibGV8ZW58MHx8MHx8fDA%3D');
+  background-position: center;
+  background-size: cover;
+}
+
